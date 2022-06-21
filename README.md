@@ -20,6 +20,8 @@ You should see the new library loaded in draw.io:
 
 ![Screenshot of library loaded](screenshot.png)
 
+Now you can drag and drop the Ubiquiti shapes into your diagram.
+
 ## Building your own library
 
 Creating a new library in draw.io is also straight forward. That's how I created the Ubiquiti one.
