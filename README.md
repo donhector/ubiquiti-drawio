@@ -8,7 +8,7 @@ In particular, the file used was _UniFi-2017 SVG.zip_ (available SVG file at the
 
 ## Usage
 
-1. In draw.io, create a new diagram.
+1. Go to [draw.io](https://draw.io) and create a new diagram.
 
 2. Then go to `File -> Open Library From -> Url...`
 3. Enter `https://github.com/donhector/ubiquiti-drawio/raw/main/Ubiquiti.xml` as the URL
