@@ -24,7 +24,7 @@ Now you can drag and drop the Ubiquiti shapes into your diagram.
 
 ## Building your own library
 
-Creating a new library in draw.io is also straight forward. That's how I created the Ubiquiti one.
+Creating a new library in draw.io is also straight forward. This is how I created it:
 
 1. Open draw.io
 2. Go to `File -> New Library -> Device...`
